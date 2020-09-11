@@ -78,6 +78,7 @@ public:
 	//bool isAlive;
 	//int pointsOfHealth;
 	Tree() {
+
 		countOfLeaves = 0;
 
 		height = 0;
